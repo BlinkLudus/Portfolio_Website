@@ -61,7 +61,7 @@ const projects = [
         id: 'Renée',
         number: '03',
         title: 'Renée',
-        subtitle: 'A Small project created in a team. A narrative driven experience.',
+        subtitle: 'A Small project created in a team. A narrative driven experience focusing on environmental storytelling.',
         category: 'GAMEPLAY PROGRAMMING / PROTOTYPE / LEVEL DESIGN',
         cover: 'images/SideProjects/Renee2.png',
         coverPosition: 'center 50%',
