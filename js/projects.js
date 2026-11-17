@@ -27,7 +27,7 @@ const projects = [
         title: 'Plurality',
         subtitle: 'Combat, progression, and readable spaces',
         category: 'GAME & LEVEL DESIGN / GROUP PROJECT',
-        cover: 'images/Plurality/cover.png',
+        cover: 'images/Plurality/pluralitycover.png',
         coverPosition: 'center 82%',
         role: 'Level Design / Gameplay Systems',
         tools: 'Unreal Engine 5 · Blueprints · Perforce',
