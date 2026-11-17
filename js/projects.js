@@ -4,7 +4,7 @@ const projects = [
     {
         id: 'stealth',
         number: '01',
-        title: 'Honours Project',
+        title: 'Honours Project (work in progress)',
         subtitle: 'A stealth level built around player choice, inspired by holistic level design principles.',
         category: 'LEVEL DESIGN / HONOURS PROJECT',
         cover: 'images/Honours/Picture1.png',
