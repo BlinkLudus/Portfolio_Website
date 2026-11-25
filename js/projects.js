@@ -71,8 +71,15 @@ const projects = [
         status: 'Prototypes',
         overview: 'A narrative driven experience where the player is recovering from a zombie infection and going through a post-apocalyptic world.',
         goals: ['Create an immersive narrative experience with a focus on environmental storytelling, Using no dialogue or text to tell the story.'],
-        images: [{src: 'images/SideProjects/Renee2.png', caption: 'Promotional image for my section.'},
-            {src: 'images/SideProjects/ReneePicture1.png', caption: 'Promotional image for my section.'}],
+        images: [
+            {src: 'images/SideProjects/Blockout1.png', caption: 'Initial blockout. Using my level plan I used geometery shapes in Unreal Engine to create a detailed blockout of the level.'},
+            {src: 'images/SideProjects/Blockout2.png', caption: 'Initial blockout. Original plan had no verticality, but I wantedd level to be more dynamic, so I added bridges going from building to building. Going from closed spaces to open spaced added more interest to the level.'},
+            {src: 'images/SideProjects/Blockout3.png', caption: 'Initial blockout. Adding more detail and refining the layout.'},
+            {src: 'images/SideProjects/Blockout4.png', caption: ' I wanted a simple but intricate level as it was narrative based. The level was linear and I blocked paths with cars and buses that added to the environmental story telling, but I also wanted to add hidden areas for the playter to rewards them for exploring.'},
+            {src: 'images/SideProjects/Blockout5.png', caption: 'Initial blockout with simple lighting.'},
+            {src: 'images/SideProjects/Renee2.png', caption: 'Promotional image for my section.'},
+            {src: 'images/SideProjects/ReneePicture1.png', caption: 'Promotional image for my section.'}
+        ],
         video: 'https://www.youtube.com/embed/NcrSD5sR9qY',
         reflection: 'With multiple level designers we worked on a section each. I worked on the first section of the game introducing the player to this post-apocalyptic world. I focused on environmental storytelling and creating a sense of tension and unease through the use of lighting, cinematography, and level layout. I also implemented cutscenes using Unreal Engine\'s sequencer tool to create cinematic moments that enhance the narrative experience.'
     }
