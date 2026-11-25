@@ -81,6 +81,8 @@ const projects = [
             {src: 'images/SideProjects/ReneePicture1.png', caption: 'Promotional image for my section.'}
         ],
         video: 'https://www.youtube.com/embed/NcrSD5sR9qY',
+        gameLink: 'https://sernerd.itch.io/renee',
+        gameLinkText: 'Play the game on itch.io',
         reflection: 'With multiple level designers we worked on a section each. I worked on the first section of the game introducing the player to this post-apocalyptic world. I focused on environmental storytelling and creating a sense of tension and unease through the use of lighting, cinematography, and level layout. I also implemented cutscenes using Unreal Engine\'s sequencer tool to create cinematic moments that enhance the narrative experience.'
     }
 ];
