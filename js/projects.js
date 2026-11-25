@@ -15,7 +15,7 @@ const projects = [
         overview: 'A small-scale fantasy-medieval palace level where the player must eliminate a target. Interconnected systems, multiple routes, and spatial information allow players to plan their own approach.',
         goals: ['Provide meaningful player agency through affordances so they can act with intent', 'Communicate opportunities through the environment rather than explicit instructions.', 'Connect climbing, stealth, and NPC patrol systems to the level layout.'],
         images: [
-            { src: 'images/Honours/Floorplan1.png', caption: 'Early floorplan — Section 1, bottom floor' },
+            { src: 'images/Honours/FloorPlan1.png', caption: 'Early floor plan — Section 1, bottom floor' },
             { src: 'images/Honours/Picture2.png', caption: 'Initial blockout — building from floor plan' },
             { src: 'images/Honours/Picture3.png', caption: 'Initial blockout — Iterating based on play tests and research' },
         ],
