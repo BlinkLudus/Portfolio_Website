@@ -75,7 +75,7 @@ const projects = [
             {src: 'images/SideProjects/Blockout1.png', caption: 'Initial blockout. Using my level plan I used geometry shapes in Unreal Engine to create a detailed blockout of the level.'},
             {src: 'images/SideProjects/Blockout2.png', caption: 'Initial blockout. Original plan had no verticality, but I wanted level to be more dynamic, so I added bridges going from building to building. Going from closed spaces to open spaced added more interest to the level.'},
             {src: 'images/SideProjects/Blockout3.png', caption: 'Initial blockout. Adding more detail and refining the layout.'},
-            {src: 'images/SideProjects/Blockout4.png', caption: ' I wanted a simple but intricate level as it was narrative based. The level was linear and I blocked paths with cars and buses that added to the environmental story telling, but I also wanted to add hidden areas for the player to rewards them for exploring.'},
+            {src: 'images/SideProjects/Blockout4.png', caption: ' I wanted a simple but intricate level as it was narrative based. The level was linear and I blocked paths with cars and buses that added to the environmental story telling, but I also wanted to add hidden areas for the player to reward them for exploring.'},
             {src: 'images/SideProjects/Blockout5.png', caption: 'Initial blockout with simple lighting.'},
             {src: 'images/SideProjects/Renee2.png', caption: 'Promotional image for my section.'},
             {src: 'images/SideProjects/ReneePicture1.png', caption: 'Promotional image for my section.'}
